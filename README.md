@@ -10,7 +10,7 @@ Para instalar o Jupyter, siga as instruções no site oficial: https://jupyter.o
 
 Outra opção é utilizar o Google Colab, que é um ambiente Jupyter online. Para acessar o Google Colab, acesse: https://colab.research.google.com
 
-## Autores
+# Autores
 
 - Ivar Hartmann
 - Guilherme F. C. F. Almeida
@@ -21,20 +21,20 @@ Outra opção é utilizar o Google Colab, que é um ambiente Jupyter online. Par
 
 ## Fundação Getúlio Vargas
 **Carlos Ivan Simonsen Leal**  
-PRESIDENTE
+Presidente
 
-## FGV DIREITO RIO
+## FGV Direito Rio
 **Sérgio Guerra**  
-DIRETOR
+Diretor
 
 **Antônio Maristrello Porto**  
-VICE-DIRETOR
+Vice-Diretor
 
 **Thiago Bottino do Amaral**  
-COORDENADOR DA GRADUAÇÃO
+Coordenador da Graduação
 
 **André Pacheco Teixeira Mendes**  
-COORDENADOR DO NÚCLEO DE PRÁTICA JURÍDICA
+Coordenador do Núcleo de Prática Jurídica
 
 **Cristina Nacif Alves**  
-COORDENADORA DE ENSIN
+Coordenadora de Ensino
