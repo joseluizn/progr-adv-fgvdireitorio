@@ -15,3 +15,26 @@ Outra opção é utilizar o Google Colab, que é um ambiente Jupyter online. Par
 - Ivar Hartmann
 - Guilherme F. C. F. Almeida
 - José Luiz Nunes (Revisão)
+
+
+# FICHA TÉCNICA
+
+## Fundação Getúlio Vargas
+**Carlos Ivan Simonsen Leal**  
+PRESIDENTE
+
+## FGV DIREITO RIO
+**Sérgio Guerra**  
+DIRETOR
+
+**Antônio Maristrello Porto**  
+VICE-DIRETOR
+
+**Thiago Bottino do Amaral**  
+COORDENADOR DA GRADUAÇÃO
+
+**André Pacheco Teixeira Mendes**  
+COORDENADOR DO NÚCLEO DE PRÁTICA JURÍDICA
+
+**Cristina Nacif Alves**  
+COORDENADORA DE ENSIN
