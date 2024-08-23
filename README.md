@@ -1,6 +1,6 @@
 # Programação para Advogados - Graduação FGV Direito Rio
 
-Repositório com material didática da disciplina de Programação para Advogados da graduação da FGV Direito Rio.
+Repositório com material didática da disciplina de Programação para Advogados da graduação da FGV Direito Rio. O curso foi ministrado com esse formato pela última vez em 2023.2, data de última revisão do conteúdo do material é das informações disponibilizadas aqui.
 
 O material é disponibilizado no formato de Jupyter Notebooks. O conteúdo de cada arquivo `.ipynb` pode ser acessado diretamente no Github.
 
