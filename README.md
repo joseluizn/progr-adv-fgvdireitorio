@@ -6,7 +6,7 @@ O material é disponibilizado no formato de Jupyter Notebooks. O conteúdo de ca
 
 Contudo, para leitura e acompanhamento do curso recomenda-se o uso de um ambiente Jupyter para possibilitar a execução dos códigos, assim como interatividade e correção dos exercícios. 
 
-Para instalar o Jupyter, siga as instruções no site oficial: https://jupyter.org/install
+Para instalar o Jupyter uma recomendação para simplificar o processo inicial para novos usuários é utilizar a versão pessoal do Anaconda: https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html, ou, se você já usa o Python, siga as instruções no site oficial: https://jupyter.org/install.
 
 Outra opção é utilizar o Google Colab, que é um ambiente Jupyter online. Para acessar o Google Colab, acesse: https://colab.research.google.com
 
